@@ -1,2 +1,2 @@
 # MIPS-CPU-Simulation
-Read ProjectGuidelines for more information
+Read ProjectGuideline for more information
